@@ -20,6 +20,8 @@ This project is also a training ground for new software sub‑team members to le
 
 [Data Analysis in Racestudio3](https://youtu.be/IQTP2LN9oNg?si=Uc9kALhEnzJ77W5h)
 
+[Formula SAE design competition format](https://www.youtube.com/watch?v=DqKXPHdX1aY)
+
 <br />
 
 ## Setup
