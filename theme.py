@@ -91,6 +91,6 @@ with dpg.window(label="Neon Dashboard", width=900, height=500):
 # ----------------------------
 dpg.create_viewport(title="Dark Neon UI", width=900, height=500)
 dpg.setup_dearpygui()
-dpg.show_viewport()
+dpg.show_viewport(maximized=True)
 dpg.start_dearpygui()
 dpg.destroy_context()
